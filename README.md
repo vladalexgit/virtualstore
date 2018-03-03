@@ -3,8 +3,6 @@ E-commerce store
 
 # Implementare
 
-Implementare:
-
     Clasa Store:
 
     - utilizeaza un pattern de tip Singleton
@@ -45,7 +43,7 @@ Implementare:
 
     - am implementat un pattern de tip Strategy, pentru a sugera un produs clientului bazat pe un algoritm preferat de acesta
 
-Interfata Grafica:
+ Interfata Grafica:
 
     Clasa WindowManager:
 
